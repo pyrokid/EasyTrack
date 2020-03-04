@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">EasyTrack</string>
+
+    <!--Navigation Tabs-->
+    <string name="TasksSection">Tasks</string>
+    <string name="ReportsSection">Reports</string>
+    <string name="ManageTasksSection">Manage</string>
+    <string name="SettingsSections">Settings</string>
+
+    <!--Buttons-->
+    <string name="ConfirmButton">Confirm</string>
+    <string name="CancelButton">Cancel</string>
+
+    <!-- -->
+    <string name="TaskNamingHint">Type your task here</string>
+    <string name="TaskIsStillRecording">Task is still recording</string>
+
+    <!--Task Panel-->
+    <string name="NoTimeThisWeek">--:--</string>
+    <string name="SelectTaskText">Select your task to start track</string>
+
+    <!--Settings-->
+    <string name="ClearAllTasks">Clear all tasks</string>
+    <string name="ClearAllTasksWarning">All of your tasks will be deleted, but all tracked periods still will be available. This action can\'t be undone.</string>
+    <string name="DeleteAllTasksAndReports">Delete all tasks and reports</string>
+    <string name="DeleteAllTasksAndReportsWarning">Warning! All of your tasks and tracked periods will be unavailable. This action can\'t be undone.</string>
+    <string name="DeleteAllReports">Delete all reports</string>
+    <string name="DeleteAllReportsWarning">Warning! All of your reports will be unavailable. This action can\'t be undone.</string>
+
+    <!--Edit task-->
+    <string name="StartTimeText">Start time:</string>
+    <string name="EndTimeText">End time:</string>
+
+</resources>
