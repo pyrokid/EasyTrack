@@ -46,6 +46,8 @@ class ManageTaskDialog(
     ): View? {
         dialog!!.setTitle("Title!")
 
+        photo = task.taskImage
+
         //region findViewById
         val v = inflater.inflate(R.layout.item_add_task, null)
         val confirmButton: Button = v.findViewById(R.id.confirmAddTask)
